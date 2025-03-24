@@ -1,6 +1,4 @@
-# 리드미
-
-## 📑 LLM Study 프로젝트
+# 📑 LLM Study 프로젝트
 
 이 저장소는 4학년 학부생 시절 세미나 활동을 통해 학습한 자료로 대규모 언어 모델(LLM)의 다양한 구성 요소를 학습하고 실험하기 위한 연구 자료를 포함하고 있습니다. Retrieval-Augmented Generation(RAG), AI Agent, Custom Tools, Streaming 등과 같은 주제에 대해 다루며 최신 기술 트렌드를 반영하고자 학습하게 되었습니다 .
 
